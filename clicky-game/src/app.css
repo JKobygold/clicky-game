@@ -1,5 +1,9 @@
 body{
     background-image: url("https://images-na.ssl-images-amazon.com/images/I/61RJ0yi4z5L._AC_SX425_.jpg")
+    
+}
+div{
+   color: orange;
 }
 
 img{
@@ -31,3 +35,4 @@ img{
   .custom {
     cursor: url("https://previews.123rf.com/images/yupiramos/yupiramos1302/yupiramos130200545/17868661-blue-bird-with-cursor-hand-isolated-vector-illustration.jpg"), auto;
   }
+  
