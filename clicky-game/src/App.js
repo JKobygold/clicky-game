@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import ToDoList from "./componants/photos";
+import Photos from "./componants/Photos";
 import Navbar from  "./componants/Navbar";
 import Jumbotron from './componants/Jumbotron';
 import Footer from "./componants/Footer";
@@ -10,7 +10,7 @@ function App() {
     <>
   <Navbar/ >
   <Jumbotron/>
-<ToDoList />
+  <Photos/>
 <Footer/>
    </>
   )
